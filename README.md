@@ -69,6 +69,7 @@ The selected text is processed locally in the browser to identify and convert a 
 
 The extension stores only the user's default currency preference using Chrome Sync and local extension storage. The developer does not receive or access this preference.
 
+See the full [Privacy Policy](PRIVACY.md).
 
 ## Support and bug reports
 
