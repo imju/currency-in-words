@@ -63,9 +63,11 @@ node tests.js
 
 ## Privacy
 
-Conversion runs entirely in the browser. Highlighted text, numeric amounts, and
-results are not transmitted or retained. Chrome storage is used only to save
-the selected default currency.
+The extension accesses only text that the user explicitly highlights before selecting the **Convert selection to currency words** right-click command.
+
+The selected text is processed locally in the browser to identify and convert a numeric amount. It is not transmitted, retained, sold, or shared with the developer or third parties.
+
+The extension stores only the user's default currency preference using Chrome Sync and local extension storage. The developer does not receive or access this preference.
 
 
 ## Support and bug reports
