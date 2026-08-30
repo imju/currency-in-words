@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="store-upload-assets/marquee-promo-option-1-1400x560.png"
+    alt="Currency in Words — numbers become words in the right language"
+    width="100%"
+  >
+</p>
+
 # Currency in Words
 
 A privacy-friendly Chrome extension that converts numeric amounts into written
@@ -16,6 +24,20 @@ language.
 - Right-click conversion of highlighted amounts in a same-page floating card
 - Full result page available only when explicitly requested
 - No AI, analytics, advertising, or external translation service
+
+## Screenshots
+
+### Toolbar converter
+
+![Currency in Words toolbar popup](store-assets/screenshot-1.png)
+
+### Same-page right-click conversion
+
+![Currency in Words floating result card](store-assets/screenshot-2.png)
+
+### Automatic localized output
+
+![Localized Korean currency output](store-assets/screenshot-3.png)
 
 ## Install locally
 
@@ -44,4 +66,3 @@ node tests.js
 Conversion runs entirely in the browser. Highlighted text, numeric amounts, and
 results are not transmitted or retained. Chrome storage is used only to save
 the selected default currency.
-# currency-in-words
