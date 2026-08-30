@@ -66,3 +66,19 @@ node tests.js
 Conversion runs entirely in the browser. Highlighted text, numeric amounts, and
 results are not transmitted or retained. Chrome storage is used only to save
 the selected default currency.
+
+
+## Support and bug reports
+
+Found a bug or have a feature request? Please [open an issue on GitHub](https://github.com/imju/currency-in-words/issues).
+
+Before creating a new issue, check whether a similar issue has already been reported.
+
+When reporting a problem, please include:
+
+- Extension version
+- Chrome version
+- Selected currency
+- Example input
+- Expected result
+- Actual result
