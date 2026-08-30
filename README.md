@@ -44,3 +44,4 @@ node tests.js
 Conversion runs entirely in the browser. Highlighted text, numeric amounts, and
 results are not transmitted or retained. Chrome storage is used only to save
 the selected default currency.
+# currency-in-words
